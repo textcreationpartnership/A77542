@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Britains glory: being a relation of the solemnity wherewith the English nation residing in Livorne, entertained the joyful tidings of His Sacred Majesties happy return to his royal throne. July 13. Stilo novo.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77542</idno>
+            <idno type="STC">Wing B4810</idno>
+            <idno type="STC">Thomason E1040_5</idno>
+            <idno type="STC">ESTC R207894</idno>
+            <idno type="EEBO-CITATION">99866914</idno>
+            <idno type="PROQUEST">99866914</idno>
+            <idno type="VID">168947</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77542)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168947)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 154:E1040[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Britains glory: being a relation of the solemnity wherewith the English nation residing in Livorne, entertained the joyful tidings of His Sacred Majesties happy return to his royal throne. July 13. Stilo novo.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Edw. Farnham in Popes-head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug 18".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royal visitors --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168947:1" rendition="simple:additions"/>
+            <p>Britains Glory: BEING A RELATION OF THE SOLEMNITY Wherewith the Engliſh Nation Reſiding in LIVORNE, Entertained the <hi>Joyful Tidings</hi> of His Sacred Majeſties Happy Return to His <hi>ROYAL THRONE.</hi>
+            </p>
+            <p>JULY 13. <hi>Stilo Novo.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Edw. Farnham</hi> in <hi>Popes-head Alley,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168947:2"/>
+            <pb n="3" facs="tcp:168947:2"/>
+            <head>Britains Glory.</head>
+            <p>THE News being arrived by a Corriere diſpatch'd from <hi>London</hi> to theſe Merchants, of his <hi>Maj<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſti<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> appearance at the ſaid place, and of the magnificent preparations there made for his entry, confirmed by the printed paper; There were in this <hi>City</hi> appointed four perſons viz. M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Henry Brown, Walwin Guaſcon, Thomas Goddard,</hi> and <hi>Gilbert Seerl,</hi> Theſe with <hi>Joſeph Kent</hi> ſuperintendent, choſe other <hi>Counſellors,</hi> to con<g ref="char:EOLhyphen"/>ſent and reſolve what was needful for a demonſtration of the <hi>Nations</hi> gladneſs and reſentment of his <hi>Majesties Recovery.</hi>
+            </p>
+            <p>After the expenſe of ſome days by a great number of labou<g ref="char:EOLhyphen"/>rers, and direction of <hi>Engeniers</hi> was framed in midſt of the <hi>Pi<g ref="char:EOLhyphen"/>azza</hi> a loſty Fabrique, ſupported by four great <hi>Columns</hi> curi<g ref="char:EOLhyphen"/>ouſly wrought with <hi>Carv'd work,</hi> and <hi>Painting,</hi> which with o<g ref="char:EOLhyphen"/>ther Inventions added Splendour to the <hi>Show</hi> on the dayes of <hi>Feaſting.</hi>
+            </p>
+            <p>The firſt of thoſe three choſen for that purpoſe being <hi>Wed<g ref="char:EOLhyphen"/>neſday the</hi> 13<hi rend="sup">th</hi>. <hi>July.</hi> The deſign was proclaimed early in the morning from the mouths of a 150 <hi>Chambers.</hi>
+            </p>
+            <p>About ten of the Clock began a peal of Ordnance fir'd a<g ref="char:EOLhyphen"/>board ſeventeen <hi>Engliſh Ships</hi> within the rode, which laſted all day, during which time the harmony of Trumpets was heard throughout the <hi>City,</hi> who with <hi>Peach-colour'd-Banners</hi> attended the <hi>Prizes;</hi> by Intervalls refreſhing themſelves at the <hi>Merchants</hi> Habitations, who generally for theſe days kept <hi>Open houſe.</hi>
+            </p>
+            <p>About dinner time, the <hi>Feaſt</hi> being that day in that of <hi>Mor<g ref="char:EOLhyphen"/>gan Read</hi> Conſ; the arms of the <hi>King</hi> were with great rejoycing reared; at which action, as alſo on the arrival of the <hi>Deputys</hi> and <hi>Captain</hi> of the <hi>Merchant Ships</hi> were fired 20 <hi>Chambers,</hi> the like at Mr. <hi>Dethicks,</hi> where were entertained the <hi>Commander</hi> of the <hi>men of Warre</hi> and other <hi>Gentlemen,</hi> and every health proclaimed
+<pb n="4" facs="tcp:168947:3"/>by their report, on a ſign given by their <hi>Butlers</hi> of its pro<g ref="char:EOLhyphen"/>motion.</p>
+            <p>Neer ſeven at night they began an orderly March along the Great-ſtreet, where they were encountred by a multitude of ſtrangers, whoſe curioſity had made leave their own home to view our <hi>Engliſh,</hi> who richly accoutred their Hats laden with ribbon of no mean price, where through the <hi>Gold</hi> and <hi>Sil<g ref="char:EOLhyphen"/>ver</hi> the ſilk ſeem'd to peep and ow its peach colour for the <hi>King.</hi>
+            </p>
+            <p>At the houſe of Mr. <hi>Wil. Mico</hi> in the ſaid great-ſtreet was ſeen the <hi>Portrait</hi> of the <hi>King</hi> in a rich frame under a <hi>Canopy of Da<g ref="char:EOLhyphen"/>maſk</hi>
+            </p>
+            <p>Within Mr. <hi>Dethicks</hi> appeared a great ſquare <hi>Lanthorn</hi> ha<g ref="char:EOLhyphen"/>ving on one ſide painted the <hi>Kings Arms</hi> with the <hi>French Motto, Dieu et Mon Droit,</hi> and on the other a <hi>flouriſhing Oak</hi> with golden-fruit, on the <hi>Boughs</hi> were placed three royall <hi>Crowns</hi> with this inſcription, <hi>Floret querous, Rex amplius.</hi> At Mr. <hi>Sidny's</hi> was another <hi>Lanthorn Octangular</hi> with the <hi>Atchive<g ref="char:EOLhyphen"/>ments</hi> of the <hi>Kings of Great Britain,</hi> and on the contrary ſide a <hi>Dragon</hi> devouring <hi>Cromwel:</hi> others of this nature were ſeen at Mr. <hi>Child</hi> his houſe and many of the <hi>Nation.</hi>
+            </p>
+            <p>From Mr. <hi>Molliſh</hi> and <hi>Brown's</hi> was continually diſtributed bread and wine to all comers, and along the Neighbourhood to the houſe of <hi>Charls Longland</hi> was ſcattered money and com<g ref="char:EOLhyphen"/>ſets, being a place of great concourſe for the indigent rabble, whom the Souldiers could not impede from muſtering in troops.</p>
+            <p>The Feaſt ended. the Pretenders entred the Lifts, being 12 Lads habited in the <hi>Engliſh Livery,</hi> who placed on a row, the ſign being, given made triall of their Active running, and the Prize was given him, ſhook firſt <hi>Hand</hi> with the <hi>Goal,</hi> being ſome ells of <hi>damaſk</hi> embelliſht with <hi>Ribbon</hi> and a <hi>Sattin pendant,</hi> whereon was portraid the <hi>Kings Arms.</hi>
+            </p>
+            <p>This ended gave way to the <hi>Bonefires,</hi> which were kindled, as alſo a train to 150 <hi>Chambers</hi> &amp; numerleſſe <hi>Rockets;</hi> beſides which on the Fabrique (where were fixt lights on all ſides to diſcover the rarity of the <hi>Painting,</hi>) were plac'd <hi>fire Serpents</hi> affording a delightfull though irregular motion in the Ayr; and
+<pb n="5" facs="tcp:168947:3"/>after the Conſumption of divers <hi>Gironels</hi> or <hi>Fire wheels</hi> ſuc<g ref="char:EOLhyphen"/>ceeded two <hi>Pyramids</hi> ſtuft with <hi>Fire-work</hi> with exquiſite or<g ref="char:EOLhyphen"/>der, the Windows and Turrets of the <hi>Engliſh</hi> ſhining with <hi>Torches</hi> and <hi>Candles</hi> burning ſome hours together.</p>
+            <p>
+               <hi>Wedneſday</hi> the 14<hi rend="sup">th</hi> was renewed the firing the <hi>Chambers,</hi> the diſtribution of Bread and Wine, and ſcattering <hi>Comfets</hi> and <hi>Money,</hi> with the loud-mouth's <hi>Guns</hi> roaring from the <hi>Ships.</hi>
+            </p>
+            <p>About four of the Clock appeared a <hi>Triumpham Charriot,</hi> on the <hi>Piazza</hi> drawn by <hi>Horſes,</hi> upon it was ſeen a <hi>woeddy meuntain,</hi> thereon a <hi>gilt Oak</hi> rich of <hi>Silver leaves,</hi> and on the Boughs three <hi>Crownes Royall</hi> beſet with <hi>Pearl,</hi> in the midſt of this <hi>Chas<g ref="char:EOLhyphen"/>riot</hi> richly girdled with a fair <hi>Gallery</hi> with four <hi>ſilver infants</hi> at the corners, ſate the <hi>Majeſtique ſtatute of Peace,</hi> about her lay ſcattered Arms and the neglected implements of <hi>Warre;</hi>
+            </p>
+            <p>On the front of the Gallery was written this verſe.
+<q xml:lang="lat">
+                  <l>Arbor honoretur, cujus nos Vmbra tuetur.</l>
+               </q>
+               <q>
+                  <l>To' th Stock wee'l homage yield</l>
+                  <l>Whoſe ſhade doth prove our ſhield.</l>
+               </q>
+            </p>
+            <p>This no ſmall <hi>Pageant</hi> being born twice round the <hi>Piazza</hi> was at laſt ſetled to the publique view of the people, and right a<g ref="char:EOLhyphen"/>gainſt the place of the forementioned <hi>motto,</hi> ſprang from the foot of the ſaid Hill two Fountains of <hi>Wine,</hi> which continued running for all comers during the <hi>Feaſt.</hi>
+            </p>
+            <p>Under the greateſt <hi>Pageant,</hi> on a great <hi>Pedeſtal</hi> of the ſame work ſtood a fair ſtatue of the <hi>King</hi> richly adorned and glit<g ref="char:EOLhyphen"/>tering, by the mixture of <hi>Gold interwoven</hi> in the habit, on the top of the ſaid Pile was a St. <hi>George on horſeback</hi> with Launce in reſt in a poſture of wounding an <hi>Over-grown Dragon</hi> under him.</p>
+            <p>At Mr. <hi>Mico's</hi> was added the portraiture of <hi>General Monck</hi> plac'd beneath that of the <hi>King,</hi> with addition of many Tablets with <hi>Motto</hi>'s and <hi>fireworks,</hi> &amp; a continual clangor of Trumpets.</p>
+            <p>The hour for the race being come, the Great-ſtreet ſwarm'd with <hi>Ladies, ſtrangers,</hi> and <hi>Citizens,</hi> who in their Coaches were ſeen loaden with thoſe additional attractives of bravery.</p>
+            <p>Not inferiour was the appearance of 12 <hi>Engliſh Cavaleers,</hi> bravely mounted, their Horſes-mains plaited with <hi>Ribbons,</hi> who accompanyed the Prize for that day, which was <hi>Cloth of Gold,</hi> and a banner with the <hi>Kings Arms;</hi> while this was condu<g ref="char:EOLhyphen"/>cting
+<pb n="6" facs="tcp:168947:4"/>before the Judges, the Deputies were ſeen with a high Civility preſenting Poems wrought in honour of his <hi>Majeſty,</hi> to the <hi>Ladies</hi> and <hi>Gentry.</hi>
+            </p>
+            <p>After this the Bridles of ſix high metald <hi>Barbs</hi> were ſlipt, whoſe eager ſpirits not brooking delay, did not preciſely ſtart on the ſign given, wherefore none could rightly be judged <hi>Victor.</hi>
+            </p>
+            <p>In the evening <hi>Torches</hi> and <hi>Lanthorns</hi> were alighted at each mans door, the <hi>Chambers</hi> had again found their voices, and the <hi>fire works</hi> were renewed on the <hi>Pageant.</hi>
+            </p>
+            <p>After this the <hi>Triumphant Chariot</hi> was brought from the <hi>Pi<g ref="char:EOLhyphen"/>azza,</hi> and conducted by a number of <hi>Torches</hi> before Mr. <hi>Mico</hi>'s dore, by whom were made an Noble Invitation, the ſtreet by the multitude of <hi>Torches</hi> reſembling noon day; From within the <hi>Chariot</hi> was heard a <hi>Symphony</hi> of divers inſtruments, and by exquiſity Muſitians were ſung divers Ayrs to a Perſon of Qua<g ref="char:EOLhyphen"/>lity in that Houſe, whereof the crowd were partakers.</p>
+            <p>The harmony ceaſing, the <hi>Banquet</hi> was prepared, to which came the <hi>Governour</hi> of the <hi>Arms</hi> with the <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fficers,</hi> and ſundry <hi>Merchants</hi> of the <hi>City</hi> It would ſwell this <hi>relation</hi> to a volume to deſcribe the <hi>magnificence</hi> of the <hi>Supper,</hi> the delicacy of the Pare, and generoſity of the Wines tendred to the Palats of more then 50 gueſts. Twas indeed extraordinary, and no leſs to ſee ſo many Glaſſes of ſundry ſhapes and ſeveral walks (like-<hi>Cheſſemen</hi>) whoſe Leader was one of <hi>ſix foot high,</hi> and of an <hi>indifferent Capacity.</hi>
+            </p>
+            <p>It hapning that on this day was <hi>Celebrated</hi> the <hi>Festival</hi> of the <hi>Grand Dukes Nativity,</hi> in honour whereof the <hi>Nation</hi> had orde<g ref="char:EOLhyphen"/>red the <hi>Engliſh Ships</hi> to proceed on firing their Guns, which they did. To the encreaſe of this <hi>Mirth</hi> the <hi>Governour</hi> of the <hi>Arms</hi> being at the <hi>Banquet</hi> on purpoſe began ſix-glaſſes to the <hi>Health</hi> of his <hi>Majeſty,</hi> and in demonſtration of the unſpeake<g ref="char:EOLhyphen"/>able joy poſſeſſing his <hi>Highneſs</hi> of <hi>Tuſcany,</hi> for his <hi>Majeſtys</hi> happy return to his <hi>Royal Throne,</hi> the ſign being given, the Guns from over the <hi>Collonels</hi> gate and the <hi>Piſan</hi> (which had been ſi<g ref="char:EOLhyphen"/>lent 40 years) began; and ſo round the <hi>Town</hi> rang a <hi>Royal Peal,</hi> which being ſo unexpected, cauſed no ſmall <hi>aſtoniſhment</hi> to the Company, who in requital began that of the <hi>Grand Duke,</hi>
+               <pb n="7" facs="tcp:168947:4"/>which was proclaimed by the thundering of the Guns <hi>aboard Ship,</hi> which continued almoſt all night.</p>
+            <p>
+               <hi>Thurſday</hi> the 15<hi rend="sup">th</hi>, <hi>Barbareſco (a Gent: Groome)</hi> pretending that his Horſe who had got, and kept the ſtart of the reſt the day before was voted <hi>Victor,</hi> and deſerved the <hi>Prize</hi> notwith<g ref="char:EOLhyphen"/>ſtanding the diſpute; wherefore the <hi>Judges</hi> were or dered to conſult with the <hi>Governour</hi> &amp; <hi>Auditors;</hi> after many depoſitions they bandied, the reſult was that the ſtarting not being fair were ſhould runne again the next day.</p>
+            <p>The <hi>Triumphant Chariot</hi> being brought on the <hi>Piazza</hi> to its ſtation, the Conduits were again opened, whence the thirſty were ſatiated. At noon the <hi>Nation,</hi> were invited and plenti<g ref="char:EOLhyphen"/>fully <hi>Feaſted</hi> at Mr. <hi>Melliſh</hi> and <hi>Browns,</hi> where was daily diſtri<g ref="char:EOLhyphen"/>buting <hi>Bread</hi> and <hi>Wine,</hi> and ſcattering <hi>Money</hi> to the poor, and alſo the <hi>Health</hi> of his <hi>Majeſty</hi> and <hi>Royal Family</hi> went round, to every one were fired 32 <hi>Chambers,</hi> ſo that the inceſſant noiſe ſeemed a <hi>continued Battel;</hi> Others of the <hi>Nation</hi> were feaſted by Mr. <hi>Serle.</hi>
+            </p>
+            <p>The hour of ſeven at night being ordained for a <hi>Prize</hi> of <hi>Cloth</hi> of <hi>Silver,</hi> the reward of the nimbleſt rowers at <hi>Sea,</hi> peo<g ref="char:EOLhyphen"/>ple ſwarmed at the <hi>Boca</hi> or <hi>Port,</hi> on the walks leading to the <hi>Fortreſs</hi> and Mould were Coaches cram'd with <hi>Ladies,</hi> though many were got into <hi>Felucca</hi>'s, and notwithſtanding ſuch a <hi>preſſe of Boats</hi> that carryed people, the <hi>Competitors</hi> were ſcarce diſcern'd. However twas infinitely pleaſing to ſee ſo many ſmal Veſſels ordered in <hi>Squadrous,</hi> which with their continual firing made it ſeem a <hi>Sea fight</hi> which laſted two hours.</p>
+            <p>After ſun-ſet the <hi>Bonefires</hi> were renewed and 200 <hi>Chambers</hi> ſhot off. On the <hi>Grand Pageant</hi> beſides <hi>Rockets</hi> and <hi>Gironels</hi> (as were on the foregoing nights) fire was given to a dreadful Dragon, from whoſe jawes and eyes flew ſuch a quantity and variety of flame that it was eſteemed the fineſt rarity had yet been ſeen.</p>
+            <p>The <hi>Livorneſi</hi> deſirous to augment the <hi>Paſtime</hi> of that night, had framed a <hi>Pageant</hi> drawn with <hi>horſes</hi> richly <hi>trapped,</hi> which a<g ref="char:EOLhyphen"/>bout night when the <hi>fireworks</hi> ceaſed they brought on the <hi>Pi<g ref="char:EOLhyphen"/>azza</hi> guarged with men in <hi>rich Liveries</hi> and <hi>Torches:</hi> This they fixt at the <hi>Governours door.</hi> Thereon was a beautiful <hi>Pile</hi>
+               <pb n="8" facs="tcp:168947:5"/>or <hi>Structure</hi> repreſenting the <hi>grot</hi> or <hi>den</hi> of Sleep circled with <hi>Golden Stars,</hi> therein were <hi>exquiſite Muſitians</hi> in habit alike with fair <hi>Plumes</hi> making a conſort of voice to the Harmony of divers <hi>Inſtruments</hi> Repreſented, Sleep awakened by ſo loud Ac<g ref="char:EOLhyphen"/>clamations for the preſent Joy, and courting certain <hi>Gentle<g ref="char:EOLhyphen"/>men</hi> to participate, which they did by an addition of <hi>Muſick.</hi> Which device being ſo ſuddainly put together was lit<g ref="char:EOLhyphen"/>tle inferiour to the reſt of the <hi>Inventions.</hi>
+            </p>
+            <p>This <hi>Pageant</hi> having made its <hi>Exit,</hi> the <hi>Engliſh Nation</hi> to ho<g ref="char:EOLhyphen"/>nour the <hi>Governour</hi> brought another of theirs upon the <hi>Piuzza</hi> attended with a <hi>Cavalcata</hi> and ſtore of <hi>Torches,</hi> placing it before the <hi>Palace,</hi> where with excellent <hi>Muſick</hi> the time was ſpent till midnight.</p>
+            <p>The <hi>Feſtivals</hi> had ended here but the ſecond <hi>Prize</hi> ſtill de<g ref="char:EOLhyphen"/>pending, another race was agreed to be runne on <hi>Friday</hi> the 16<hi rend="sup">th</hi>, which coming at the horu appointed the ſteeds were ranked, and on the Trumpets ſound they fairly ſtarted and ranne, the <hi>premio aſſign'd</hi> the Deſerver.</p>
+            <p>But becauſe the concluſion of theſe Rejoycings would not have ſuted with the magnificence they were begun if only this Race had been the Period; About ſun-ſet was ſeen in the <hi>Piaz<g ref="char:EOLhyphen"/>za</hi> another <hi>Pageant</hi> whereon the <hi>King Arms</hi> were elevated and of a large dimenſion, and when the light had fully given way to darkneſſe, the <hi>Gironels</hi> and other <hi>fire-works</hi> on the upper part played. After them a great quantity of <hi>Reckets</hi> wherewith the ſaid Armes very Artificially were compaſſed, whence very often they diſperſed pretty fancies, the ſplendor of <hi>Lights</hi> and <hi>Torches</hi> being as the former; ſo this night as Mr. <hi>Sidneys.</hi>
+            </p>
+            <p>For the cloſe, fire was put to a great <hi>Gironel</hi> which in form of a <hi>Diadem Crown'd</hi> the ſaid Arm's, which in a moment vented ſo many flames, at once covering the <hi>Piazza,</hi> as if fire had rani'd from Heaven, with which and the general applauſe of the multitude the Show was ended.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
